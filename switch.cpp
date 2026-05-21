@@ -29,6 +29,7 @@ int main(){
         break;
     
     default:
+        cout << "No date selected";
         break;
     }
     return 0;
